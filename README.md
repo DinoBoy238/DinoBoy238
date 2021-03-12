@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DinoBoy238
 - 👀 I’m interested in too many things too say
 - 🌱 I’m currently learning CSS and javascript
-- 💞️ I’m looking to collaborate on nothing now
+- 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me ....
 
 <!---
